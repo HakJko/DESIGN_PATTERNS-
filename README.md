@@ -12,4 +12,13 @@ The first part of the review of patterns are _Creational_ patterns:
 - Prototype
 - Builder
 
+The second part of the review of patterns are _Structural_ patterns:
 
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+
+***
